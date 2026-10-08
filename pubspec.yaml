@@ -1,0 +1,33 @@
+name: pdf_buddy
+description: "A Flutter web-based PDF editor application"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+
+  # PDF Handling
+  syncfusion_flutter_pdf: ^29.1.39
+  syncfusion_flutter_pdfviewer: ^29.1.39
+
+  # File Upload and Browser Integration
+  universal_html: ^2.2.4
+
+  # UI Components
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
