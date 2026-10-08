@@ -2,6 +2,8 @@
 
 A Flutter web app for merging and splitting PDF files in the browser.
 
+Live: https://pdf-buddy-d57.pages.dev/
+
 ## 🚀 Features
 
 ### Core PDF Operations
